@@ -1,0 +1,217 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"last_filter": "HTML",
+		"selected_items":
+		[
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 92.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/laurawallace/Desktop/projects/capstoneapi/app.js",
+		"/Users/laurawallace/Desktop/projects/capstoneapi/main.css",
+		"/Users/laurawallace/Desktop/projects/capstoneapi/index.html",
+		"/Users/laurawallace/Desktop/projects/thinkfultube/index.html",
+		"/Users/laurawallace/Desktop/projects/thinkfultube/app.js",
+		"/Users/laurawallace/Desktop/projects/testproject/index.html",
+		"/Users/laurawallace/Desktop/projects/thinkfultube/main.css",
+		"/Users/laurawallace/Desktop/projects/test.md",
+		"/Users/laurawallace/Desktop/projects/shopping-list/app.js",
+		"/Users/laurawallace/Desktop/projects/text-analyzer-starter-files/main.css",
+		"/Users/laurawallace/Desktop/projects/css_layout_exercises_starter_files/analogsea/analogsea.css",
+		"/Users/laurawallace/Desktop/projects/shopping-list/index.html",
+		"/Users/laurawallace/Desktop/projects/shopping-list/main.css",
+		"/Users/laurawallace/Desktop/projects/shopping-list/README.md",
+		"/Users/laurawallace/Desktop/projects/separated-shopping-list/index.html",
+		"/Users/laurawallace/Desktop/projects/separated-shopping-list/index.js",
+		"/Users/laurawallace/Desktop/projects/text-analyzer-starter-files/index.html",
+		"/Users/laurawallace/Desktop/projects/text-analyzer-starter-files/app.js",
+		"/Users/laurawallace/Desktop/projects/hello-world-js/app.js",
+		"/Users/laurawallace/Desktop/projects/hello-world-js/index.html",
+		"/Users/laurawallace/Desktop/hello_world/index.html",
+		"/Users/laurawallace/Desktop/projects/star-wars-responsive-challenge-starter-files/grid.css",
+		"/Users/laurawallace/Desktop/projects/star-wars-responsive-challenge-starter-files/main.css",
+		"/Users/laurawallace/Desktop/projects/star-wars-responsive-challenge-starter-files/index.html",
+		"/Users/laurawallace/Desktop/projects/responsive-grid-example-and-challenge-starter-files/index.html",
+		"/Users/laurawallace/Desktop/projects/responsive-grid-example-and-challenge-starter-files/css/main.css",
+		"/Users/laurawallace/Desktop/projects/responsive-grid-example-and-challenge-starter-files/css/float-grid.css",
+		"/Users/laurawallace/Desktop/projects/css_layout_exercises_starter_files/analogsea/analogsea.html",
+		"/Users/laurawallace/Desktop/projects/css_layout_exercises_starter_files/gregslist.css",
+		"/Users/laurawallace/Desktop/projects/css_layout_exercises_starter_files/gregslist.html",
+		"/Users/laurawallace/Desktop/projects/css_layout_exercises_starter_files/styles/float-page.css",
+		"/Users/laurawallace/Desktop/projects/css_layout_exercises_starter_files/float-exercise.html",
+		"/Users/laurawallace/Desktop/projects/css_layout_exercises_starter_files/position-exercise.html",
+		"/Users/laurawallace/Desktop/projects/css_layout_exercises_starter_files/styles/position-page.css",
+		"/Users/laurawallace/Desktop/projects/css_layout_exercises_starter_files/display-exercise.html",
+		"/Users/laurawallace/Desktop/projects/css_layout_exercises_starter_files/styles/display-page.css",
+		"/Users/laurawallace/Desktop/projects/CSS Drills/CSSDrill2/index.html",
+		"/Users/laurawallace/Desktop/projects/CSS Drills/CSSDrill2/main.css"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"correctAnswer:",
+			"span",
+			"span class=\"blue\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "models.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
